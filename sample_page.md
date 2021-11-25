@@ -14,10 +14,10 @@ if (isAwesome){
 
 ### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
+```R
+a <- 2+2
+a  
+
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
