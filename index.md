@@ -5,7 +5,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Análisis de clientes de tarjetas de crédito](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
