@@ -1,12 +1,12 @@
-## Portfolio
+## Portafolio de royectos de Ciencia de Datos
 
 ---
 <!-- Esto es un comentario -->
 
-### Category Name 1 
+### Banca y finanzas 
 
 [Análisis de clientes de tarjetas de crédito](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/frec_rel_cli.png?raw=true"/>
 
 ---
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
