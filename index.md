@@ -1,4 +1,4 @@
-## Portafolio de royectos de Ciencia de Datos
+## Portafolio de Proyectos de Ciencia de Datos
 
 ---
 <!-- Esto es un comentario -->
