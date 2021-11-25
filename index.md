@@ -6,7 +6,8 @@
 ### Banca y finanzas 
 
 [Análisis de clientes de tarjetas de crédito](/sample_page)
-<img src="images/frec_rel_cli.png?raw=true"/>
+
+<img src="images/tarjetas.jfif?raw=true"/>
 
 --- 
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
