@@ -172,3 +172,16 @@ cor_spearman
 
 
 ```R
+#Visualizando con un mapa de calor la matriz de correlación con el método pearson
+as.matrix(data.frame(cor_spearman)) %>% 
+        round(3) %>% #round
+        hchart() %>% 
+        hc_add_theme(hc_theme_smpl()) %>%
+        hc_title(text = "Coeficientes de correlación de Spearman", align = "center") %>% 
+        hc_legend(align = "center") %>% 
+        hc_colorAxis(stops = color_stops(colors = viridis::inferno(10))) %>%
+        hc_plotOptions(
+                series = list(
+                        boderWidth = 0,
+                        dataLabels = list(enabled = TRUE)))
+```
