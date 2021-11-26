@@ -5,7 +5,7 @@
 
 ### Banca y finanzas 
 
-[Análisis de clientes de tarjetas de crédito](/sample_page)
+[Análisis de clientes de tarjetas de crédito](/tarjeta_credito_analisis)
 
 <img src="images/tarjetas.jfif?raw=true"/>
 
